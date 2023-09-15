@@ -39,5 +39,7 @@ int num1 = testScanner.nextInt();
 int num2 = testScanner.nextInt();
 
 System.out.println(num1+num2);
+
+testScanner.close();
     }
 }
